@@ -9,5 +9,5 @@ def display_board(arrays)
 end
 
 
-board = ["O", "X", " ", " ", "X", " ", "X", "O", " "]
+#board = ["O", "X", " ", " ", "X", " ", "X", "O", " "]
 display_board(board)
