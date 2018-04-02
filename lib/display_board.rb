@@ -10,4 +10,6 @@ end
 
 
 #board = ["O", "X", " ", " ", "X", " ", "X", "O", " "]
+
+board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 display_board(board)
