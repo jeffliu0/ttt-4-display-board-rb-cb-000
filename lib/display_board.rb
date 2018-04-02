@@ -6,3 +6,8 @@ def display_board(arrays)
   puts " #{arrays[4]} | #{arrays[5]} | #{arrays[6]} "
   puts "-----------"
   puts " #{arrays[7]} | #{arrays[8]} | #{arrays[9]} "
+end
+
+
+board = ["O", "X", " ", " ", "X", " ", "X", "O", " "]
+display_board(board)
